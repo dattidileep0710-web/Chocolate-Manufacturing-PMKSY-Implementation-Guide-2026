@@ -36,7 +36,7 @@ This document provides a comprehensive guide to selecting and forming the approp
 | **Private Limited Company (Pvt. Ltd.)** | Companies Act 2013 | 2 | No statutory minimum (₹1 lac recommended) | Limited to shares held | ENGINEERING RECOMMENDATION — most suitable for ₹2 Cr manufacturing; preferred by banks for term loans |
 | **Public Limited Company** | Companies Act 2013 | 7 | Minimum ₹5 lakh | Limited to shares held | PROJECT ASSUMPTION — overkill for ₹2 Cr project; more suited for larger scale or listed entities |
 | **One Person Company (OPC)** | Companies Act 2013 | 1 | No statutory minimum (₹1 lac recommended) | Limited to shares held | PROJECT ASSUMPTION — suitable for single-promoter projects; cannot raise equity easily |
-| **Producer Company** | Companies Act 2013 (Section 422-424) | 10 producers | No statutory minimum | Limited | PROJECT ASSUMPTION — specifically for agricultural produce; may be relevant for cocoa procurement focus |
+| **Producer Company** | Companies Act 2013 (Chapter XXI, Sections 378A-378ZO) | 10 producers | No statutory minimum | Limited | PROJECT ASSUMPTION — specifically for agricultural produce; may be relevant for cocoa procurement focus |
 | ** Cooperative Society** | Cooperative Societies Act (state-specific) | 10+ members | Varies by state | Limited to contribution | PROJECT ASSUMPTION — state-specific; slower formation; less preferred by banks |
 
 **ENGINEERING RECOMMENDATION** — For a ₹2 crore chocolate manufacturing unit in Andhra Pradesh under PMKSY, **Private Limited Company** is the strongly recommended entity type. It offers limited liability, easy fundraising, bank preference, and PMKSY compatibility.

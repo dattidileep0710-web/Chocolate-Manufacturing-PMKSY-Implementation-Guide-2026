@@ -145,7 +145,7 @@ This document provides a step-by-step procedural guide to registering and incorp
 
 ### SPICe+ Form Overview
 
-**OFFICIAL** — SPICe+ (Simplified Proforma forIncorporation Company) is the unified form for company incorporation, DIN, PAN, TAN, GST, EPF, ESI, and other registrations.
+**OFFICIAL** — SPICe+ (Simplified Proforma for Incorporation Company) is the unified form for company incorporation, DIN, PAN, TAN, GST, EPF, ESI, and other registrations.
 
 | Feature | Detail | Status |
 |---------|--------|--------|
