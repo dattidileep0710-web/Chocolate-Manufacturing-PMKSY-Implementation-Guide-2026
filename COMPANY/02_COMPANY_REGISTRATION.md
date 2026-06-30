@@ -7,7 +7,7 @@ owner: "Legal"
 reviewers: ["Compliance Lead", "Financial Analyst"]
 approver: "Program Director"
 created: "2026-06-30"
-modified: "2026-06-30"
+modified: "2026-07-01"
 tags: ["company", "registration", "incorporation", "mca", "legal"]
 references: ["CMPY-001", "PMKS-004", "PMKS-001"]
 ---
@@ -397,14 +397,14 @@ See [PMKS-007: Required Documents](PMKSY_MASTER/07_REQUIRED_DOCUMENTS.md) for co
 
 | Source | Document | Access Date | Status |
 |--------|----------|-------------|--------|
-| MCA | Companies Act 2013 | 2026-06-30 | Active |
-| MCA | SPICe+ Form and User Manual | 2026-06-30 | Active |
-| MCA | MCA21 Portal | 2026-06-30 | Active |
-| CCA | Digital Signature Certificate Rules | 2026-06-30 | Active |
-| Income Tax Department | PAN / TAN Rules | 2026-06-30 | Active |
-| GST Portal | GST Registration Rules | 2026-06-30 | Active |
-| AP Labor Department | AP Shops & Establishments Act | 2026-06-30 | Active |
-| AP Commercial Taxes | AP Professional Tax Rules | 2026-06-30 | Active |
+| MCA | Companies Act 2013 | 2026-07-01 | Active |
+| MCA | SPICe+ Form and User Manual | 2026-07-01 | Active |
+| MCA | MCA21 Portal | 2026-07-01 | Active |
+| CCA | Digital Signature Certificate Rules | 2026-07-01 | Active |
+| Income Tax Department | PAN / TAN Rules | 2026-07-01 | Active |
+| GST Portal | GST Registration Rules | 2026-07-01 | Active |
+| AP Labor Department | AP Shops & Establishments Act | 2026-07-01 | Active |
+| AP Commercial Taxes | AP Professional Tax Rules | 2026-07-01 | Active |
 
 ### Secondary Sources
 

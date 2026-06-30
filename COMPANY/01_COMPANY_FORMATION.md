@@ -7,7 +7,7 @@ owner: "Legal"
 reviewers: ["Compliance Lead", "Financial Analyst"]
 approver: "Program Director"
 created: "2026-06-30"
-modified: "2026-06-30"
+modified: "2026-07-01"
 tags: ["company", "formation", "entity", "legal", "registration"]
 references: ["PMKS-004", "PMKS-001", "PMKS-003"]
 ---
@@ -33,7 +33,7 @@ This document provides a comprehensive guide to selecting and forming the approp
 | **Sole Proprietorship** | No specific act; governed by tax and local laws | 1 | No minimum | Unlimited | PROJECT ASSUMPTION — suitable for very small scale; limited for ₹2 Cr project |
 | **Partnership Firm** | Partnership Act 1932 | 2 | No minimum | Unlimited / Joint and several | PROJECT ASSUMPTION — risky for high-CapEx projects; limited fundraising |
 | **Limited Liability Partnership (LLP)** | LLP Act 2008 | 2 | No statutory minimum (₹1 lac recommended) | Limited to contribution | PROJECT ASSUMPTION — flexible; suitable for professional/consulting firms; less common for manufacturing |
-| **Private Limited Company (Pvt. Ltd.)** | Companies Act 2013 | 2 | No statutory minimum (₹1 lac recommended) | Limited to shares held | OFFICIAL — most common for ₹2 Cr manufacturing projects; preferred by banks |
+| **Private Limited Company (Pvt. Ltd.)** | Companies Act 2013 | 2 | No statutory minimum (₹1 lac recommended) | Limited to shares held | ENGINEERING RECOMMENDATION — most suitable for ₹2 Cr manufacturing; preferred by banks for term loans |
 | **Public Limited Company** | Companies Act 2013 | 7 | Minimum ₹5 lakh | Limited to shares held | PROJECT ASSUMPTION — overkill for ₹2 Cr project; more suited for larger scale or listed entities |
 | **One Person Company (OPC)** | Companies Act 2013 | 1 | No statutory minimum (₹1 lac recommended) | Limited to shares held | PROJECT ASSUMPTION — suitable for single-promoter projects; cannot raise equity easily |
 | **Producer Company** | Companies Act 2013 (Section 422-424) | 10 producers | No statutory minimum | Limited | PROJECT ASSUMPTION — specifically for agricultural produce; may be relevant for cocoa procurement focus |
@@ -385,12 +385,12 @@ Confirm current AP industrial incentives at AP Industrial Infrastructure Corpora
 
 | Source | Document | Access Date | Status |
 |--------|----------|-------------|--------|
-| MCA | Companies Act 2013 | 2026-06-30 | Active |
-| MCA | LLP Act 2008 | 2026-06-30 | Active |
-| MCA | Partnership Act 1932 | 2026-06-30 | Active |
-| MCA | SPICe+ Form and Guidelines | 2026-06-30 | Active |
-| AP Government | AP Industrial Policy 2023 | 2026-06-30 | REQUIRES RE-VERIFICATION |
-| AP Labor Department | AP Shops & Establishments Act | 2026-06-30 | Active |
+| MCA | Companies Act 2013 | 2026-07-01 | Active |
+| MCA | LLP Act 2008 | 2026-07-01 | Active |
+| MCA | Partnership Act 1932 | 2026-07-01 | Active |
+| MCA | SPICe+ Form and Guidelines | 2026-07-01 | Active |
+| AP Government | AP Industrial Policy 2023 | 2026-07-01 | REQUIRES RE-VERIFICATION |
+| AP Labor Department | AP Shops & Establishments Act | 2026-07-01 | Active |
 
 ### Secondary Sources
 
