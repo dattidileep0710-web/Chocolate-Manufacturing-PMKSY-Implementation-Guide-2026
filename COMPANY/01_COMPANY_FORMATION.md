@@ -211,7 +211,7 @@ Confirm current AP industrial incentives at AP Industrial Infrastructure Corpora
 |----------|-------------|--------|
 | Managing Director (MD) / Whole-time Director | Recommended for active management | PROJECT ASSUMPTION |
 | Chief Financial Officer (CFO) | Recommended if turnover exceeds threshold; advisable for bank preference | PROJECT ASSUMPTION |
-| Company Secretary | Mandatory only if paid-up capital ≥₹10 Cr (not applicable); advisable but not mandatory | PROJECT ASSUMPTION |
+| Company Secretary | Mandatory only if paid-up capital ≥₹10 Cr (not applicable); advisable but not mandatory | OFFICIAL — under Companies Act 2013 Section 203 for private companies with paid-up capital below ₹10 Cr |
 
 **REQUIRES RE-VERIFICATION** — Confirm if paid-up capital thresholds for mandatory CFO/CS have been updated in current Companies Act rules.
 
