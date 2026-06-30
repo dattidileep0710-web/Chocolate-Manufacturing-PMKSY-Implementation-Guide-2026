@@ -593,7 +593,7 @@ See [PMKS-013: Compliance](PMKSY_MASTER/13_COMPLIANCE.md).
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0.0 | 2026-06-30 | Documentation Lead | Initial creation — 73 FAQ items covering all PMKSY_MASTER topics |
+| 1.0.0 | 2026-06-30 | Documentation Lead | Initial creation — editorial compilation of Q&A items covering all PMKSY_MASTER topics (question count is not official; questions selected by Documentation Lead based on PMKS-001 through PMKS-014) |
 
 ---
 
